@@ -1,7 +1,7 @@
 # A Pan-squamous Fine-grained Differentiation Benchmark for Systematically Pathological Diagnosis Reasoning
 
 ## 🤹 Authors [*Corresponding author]
-- Pan Huang, Yiwen Wang, Lan Wang, Guoqing Fu, Zhenglin Ji, Xinwei Zhang, Zheng Gu, Chentao Li*, and Jing Qin*
+- Pan Huang, Yiwen Wang, Lan Wang, Guoqing Fu, Zhenglin Ji, Xinwei Zhang, Zheng Gu, Chentao Li*, Mingrui Ma*, Yifang Ping*, and Jing Qin*
 
 ## :fire: News
 - [xxxx/xx/xx]  _xxx_.
@@ -10,7 +10,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Actively-interpretable Clustering with Multi-order Mixing Circuits (AicMMC)** method:
+Here's an overview of our **Actively-interpretable Clustering with Counterfactual-interaction Mixing Circuits (AicCMC)** method:
 
 ![Figure 1](./images/xxx.png)
 
